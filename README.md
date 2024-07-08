@@ -77,11 +77,14 @@
         <tr>
             <td> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gerges-Hana?theme=buefy"/>             </td>
             <td>
-             <a href="https://github.com/Gerges-Hana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerges-Hana&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
-  </a>     
+               <a href="https://github.com/Gerges-Hana">
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerges-Hana&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
+              </a>     
             </td>
         </tr>
+      <tr>
+        <a href="https://codetrace.com/users/Gerges-Hana"><img src="https://codetrace.com/widget/Gerges-Hana" width="220" height="50" /></a>
+      </tr>
     </thead>
 </table>
 
