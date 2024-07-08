@@ -87,7 +87,6 @@
       </tr>
 
 
-    </thead>
 </table>
 
   <br/>  <br/>
