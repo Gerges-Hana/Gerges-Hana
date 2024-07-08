@@ -82,9 +82,15 @@
               </a>     
             </td>
         </tr>
-      <tr style="width=100%">
+<!--       <tr style="width=100%">
         <a style="width=100%" href="https://codetrace.com/users/Gerges-Hana"><img src="https://codetrace.com/widget/Gerges-Hana" width="220" height="50" /></a>
-      </tr>
+      </tr> -->
+      <div style="width: 100%;">
+  <a href="https://codetrace.com/users/Gerges-Hana" style="display: block; width: 100%;">
+    <img src="https://codetrace.com/widget/Gerges-Hana" style="width: 100%; height: auto;" alt="Gerges Hana's Profile on CodeTrace"/>
+  </a>
+</div>
+
     </thead>
 </table>
 
