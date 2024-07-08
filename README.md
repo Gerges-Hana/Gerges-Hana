@@ -82,8 +82,8 @@
               </a>     
             </td>
         </tr>
-      <tr>
-        <a href="https://codetrace.com/users/Gerges-Hana"><img src="https://codetrace.com/widget/Gerges-Hana" width="220" height="50" /></a>
+      <tr style="width=100%">
+        <a style="width=100%" href="https://codetrace.com/users/Gerges-Hana"><img src="https://codetrace.com/widget/Gerges-Hana" width="220" height="50" /></a>
       </tr>
     </thead>
 </table>
